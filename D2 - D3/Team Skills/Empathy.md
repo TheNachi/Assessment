@@ -8,4 +8,4 @@ When working on a team, its very important for their to be a healthy dose of emp
 
 I try to do my work in a way that makes it easy for members of my team to do theirs instead making work harder and painful for them, I try to ensure that when we're swapped with a busy schedule, not to take too much of their time during standups and lengthy conversations on slack. I try to ensure my teammates are as autonomous as possible as I've noticed this increases creativity.
 
-I ensure I have a general introductory sync with every new member of my team. I try to understand their background, and experiences as a person. I also try to identify our cultural differences. This helps me relate with them much better and ensures I am able to empatize with them in different scenarios
+I try to have a general introductory sync with every new member of my team. I try to understand their background, and experiences as a person. I also try to identify our cultural differences. This helps me relate with them much better and ensures I am able to empatize with them in different scenarios
