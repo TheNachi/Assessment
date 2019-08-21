@@ -1,4 +1,4 @@
-# Encourages Others
+# Management
 
 ### Expectation
 The Developer demonstrates an ability to manage junior members of their team by clearly setting expectations, by helping them to improve as developers through the delivery of prioritized, value-adding work, and by helping them grow as contributing members of a technical team.
