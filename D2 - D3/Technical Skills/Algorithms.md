@@ -7,6 +7,11 @@ The Developer understands and can implement high-performance data retrieval over
  - Hashing: Knowledge of what hash algorithms are and what problems they can address (MD5, collisions, linear probing)
 
 ### Experience Justification
+How well a solution works, if it would error out, if it is slow or if it is fast all this is as a result of the algorithm used in designing that solution. When it comes to writing an algorithm, making sure it works is not all that one should be worried about, but also how well does it work, how is its time efficiency and how scalable is it.
+
+While on my engagement, I've had to implement many different types of algorithm in seeking for the best way to solve problems, and been able to identify which type of algorthmm should be used at a particular time also based on the type of data I'm working with.
+
+Below are some algorithms, their meaning and implmentation: 
 
 ## Search ALgorithms
 
